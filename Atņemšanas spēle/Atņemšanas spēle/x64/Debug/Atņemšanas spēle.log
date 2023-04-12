@@ -1,0 +1,3 @@
+﻿  Atņemšanas spēle.cpp
+C:\Users\Sandis\source\repos\Atņemšanas spēle\Atņemšanas spēle\Atņemšanas spēle.cpp(90,17): warning C4566: character represented by universal-character-name '\u0113' cannot be represented in the current code page (1252)
+  Atņemšanas spēle.vcxproj -> C:\Users\Sandis\source\repos\Atņemšanas spēle\x64\Debug\Atņemšanas spēle.exe
